@@ -25,7 +25,7 @@
 
 4. gpu.yaml
 
-### However, some editions are useless that means some of them do not affect the classifier_trainer.py.
+However, some editions are useless that means some of them do not affect the classifier_trainer.py.
 
 
 ## Last, For the $MODEL.DIR folder, it will auto-generate after running the classifier_trainer.py. 
