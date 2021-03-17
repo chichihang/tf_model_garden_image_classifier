@@ -25,4 +25,4 @@ In the official folder:
 
 4. gpu.yaml
 
-However, some editions are useless that means some of them do not affect the classifier.py.
+However, some editions are useless that means some of them do not affect the classifier_trainer.py.
